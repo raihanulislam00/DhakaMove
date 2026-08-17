@@ -1,0 +1,6 @@
+{
+  "name": "DhakaMove - AI Smart Bus System",
+  "description": "AI-powered smart public transit platform for Dhaka with live GPS tracking, dynamic ETA traffic predictions, digital seat booking with bKash/Nagad, crowd level indicators, journey safety sharing, and Gemini AI trip assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
